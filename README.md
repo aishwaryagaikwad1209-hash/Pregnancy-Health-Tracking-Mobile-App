@@ -10,16 +10,17 @@ It includes features like:
 - Profile management
 
 ## Screenshots
-![Home Screen](exports/home.png = <img width="390" height="844" alt="Home" src="https://github.com/user-attachments/assets/7f14b10e-c86c-45d7-a174-b5631417c611" />
+![Home Screen](exports/home.png 
+<img width="390" height="844" alt="Home" src="https://github.com/user-attachments/assets/7f14b10e-c86c-45d7-a174-b5631417c611" />
 )
-![Profile Screen](exports/profile.png = <img width="390" height="844" alt="profile" src="https://github.com/user-attachments/assets/420775a4-6324-45e0-aef0-b09c6570d99f" />
+![Profile Screen](exports/profile.png 
+<img width="390" height="844" alt="profile" src="https://github.com/user-attachments/assets/420775a4-6324-45e0-aef0-b09c6570d99f" />
 )
-![SOS Screen](exports/SOS.png = <img width="390" height="844" alt="sos" src="https://github.com/user-attachments/assets/40dba7c3-e427-4f0a-98d4-bc41007e8f96" />
+![SOS Screen](exports/SOS.png
+<img width="390" height="844" alt="sos" src="https://github.com/user-attachments/assets/40dba7c3-e427-4f0a-98d4-bc41007e8f96" />
 )
 
-## Figma File
-You can download the Figma file here:
-[PregnancyHealthApp.fig] 
+
 
 ## How to Use
 1. Download the images for reference.
